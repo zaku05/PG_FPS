@@ -2,7 +2,6 @@
 
 #include "ChooseNextWaypoint.h"
 #include "AIController.h"
-#include "TP_ThirdPerson/TP_ThirdPersonCharacter.h"
 #include "PatrolRoute.h"
 #include "BehaviorTree/BlackboardComponent.h"
 

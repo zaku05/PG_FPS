@@ -6,7 +6,9 @@
 #include "Components/ActorComponent.h"
 #include "PatrolRoute.generated.h"
 
-
+/**
+* a component for listing an actor array of patrol points
+*/
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class PROVINGGROUNDSFPS_API UPatrolRoute : public UActorComponent
 {
